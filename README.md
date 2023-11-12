@@ -272,11 +272,13 @@ getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.L
 
 
 ## **Demo Aplikasi**
-![gif](videos/Fibonacci_record.gif)
-
+<img src="https://github.com/dipca0895/Fibonacci_App/blob/main/videos/Fibonacci_record.gif" width=50% height=50%>
 
 **LINK DEMO ---> [video](https://drive.google.com/file/d/1txIjIMQIJ5ccuee_BCUGCoa63Ev0ulse/view?usp=drive_link)**
 <hr>
+  <img src=""width:70%;>
 
-**[Back-->](#fibonacci_app){:width="50%"}**
+
+
+**[Back-->](#fibonacci_app)**
 

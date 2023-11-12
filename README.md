@@ -22,9 +22,7 @@ Dosen   : Donny Maulana, S.Kom., M.M.S.I.
 Ini adalah aplikasi untuk menghitung bilangan Fibonacci yaitu pola bilangan hasil penjumlahan dua bilangan sebelumnya. Contoh polanya 0,1,1,2,3,5,8,13 dan seterusnya, 2 hasil dari (1+1).
 
 ## **Desain Aplikasi**
-![images](images/design_1.png)
-
-![images](images/design_2.png)
+![images](images/design_1.png) ![images](images/design_2.png)
 
 
 ## **FItur-Fitur Aplikasi**

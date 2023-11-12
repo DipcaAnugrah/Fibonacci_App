@@ -278,5 +278,5 @@ getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.L
 **LINK DEMO ---> [video](https://drive.google.com/file/d/1txIjIMQIJ5ccuee_BCUGCoa63Ev0ulse/view?usp=drive_link)**
 <hr>
 
-**[Back-->](#fibonacci_app)**
+**[Back-->](#fibonacci_app){:width="50%"}**
 

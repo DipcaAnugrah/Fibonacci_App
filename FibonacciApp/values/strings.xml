@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FibonacciApp</string>
+    <string name="button_label_count">&#43;</string>
+    <string name="button_label_count_down">&#8722;</string>
+    <string name="button_label_fibonacci">Fibonacci</string>
+    <string name="fibonacci_message">Program Fibonacci</string>
+    <string name="button_label_mode">Limited Mode</string>
+    <string name="button_label_reset">&#8635;</string>
+    <string name="button_limit_input">Enter Limit</string>
+</resources>

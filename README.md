@@ -25,6 +25,10 @@ Ini adalah aplikasi untuk menghitung bilangan Fibonacci yaitu pola bilangan hasi
 ## **Desain Aplikasi**
 
 ![images](images/design_1.png) ![images](images/design_2.png)
+<img src="https://github.com/dipca0895/Fibonacci_App/blob/main/images/design_1.png" width=30% height=30%>
+
+<img src="https://github.com/dipca0895/Fibonacci_App/blob/main/images/design_2.png" width=30% height=30%>
+
 
 ## **FItur-Fitur Aplikasi**
 
@@ -305,7 +309,7 @@ getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.L
 
 ## **Demo Aplikasi**
 
-<img src="https://github.com/dipca0895/Fibonacci_App/blob/main/videos/Fibonacci_record.gif" width=25% height=25%>
+<img src="https://github.com/dipca0895/Fibonacci_App/blob/main/videos/Fibonacci_record.gif" width=30% height=30%>
 
 **LINK DEMO ---> [video](https://drive.google.com/file/d/1txIjIMQIJ5ccuee_BCUGCoa63Ev0ulse/view?usp=drive_link)**
 
